@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chapter4</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="radLbToKilo">Convert pounds to Kilo</string>
+    <string name="radKiloToLb">Convert Kilo to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+    <string name="title">Covert Patient Weight</string>
+</resources>
